@@ -1,0 +1,10 @@
+Instrucciones
+
+1 Copia los archivos "ad_cmn.dll" y "fl_sim_h" aquí incluidos
+2 Busca en el directorio de instalación de fluidSIM hidráulica la carpeta bin
+  normalmente sería C:\Archivos de programa\Didactic\fl_sim_h4.es\bin
+3 Pega los archivos con la opción remplazar
+
+¡Listo! Ahora tienes Fluidsim Hidráulica totalmente Completo.
+
+Nota: El crack funciona para los 4 idiomas disponibles
